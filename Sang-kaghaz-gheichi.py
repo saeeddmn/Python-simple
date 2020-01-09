@@ -1,7 +1,6 @@
 #By Saeed Damghanian
 #simple project that has not graphics
 
-
 import random
 while(True):
     select = input('\nKhosh amadid. Entekhab ba shomast: Sang | Kaghaz | Gheichi :' )
