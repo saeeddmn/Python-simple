@@ -1,3 +1,6 @@
+#By: Saeed_Damghanian
+#it is simple calculator
+
 from tkinter import *
 
 root = Tk()
