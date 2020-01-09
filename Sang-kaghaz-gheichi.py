@@ -1,3 +1,6 @@
+#By Saeed Damghanian
+#simple project that has not graphics
+
 
 import random
 while(True):
